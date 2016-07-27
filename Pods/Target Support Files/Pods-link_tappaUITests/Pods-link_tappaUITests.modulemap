@@ -1,0 +1,6 @@
+framework module Pods_link_tappaUITests {
+  umbrella header "Pods-link_tappaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
